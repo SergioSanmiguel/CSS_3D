@@ -20,7 +20,6 @@
 Recomendado: servidor HTTP simple con Python.
 
 ```powershell
-cd D:\Trabajo\CSS_3D
 # inicia servidor en puerto 8000
 python -m http.server 8000
 # abre en navegador
